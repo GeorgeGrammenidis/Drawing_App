@@ -1,0 +1,20 @@
+C:\Users\George\source\repos\Project3(third_attempt)\bin\Debug\Project3(third_attempt).exe.config
+C:\Users\George\source\repos\Project3(third_attempt)\bin\Debug\Project3(third_attempt).exe
+C:\Users\George\source\repos\Project3(third_attempt)\bin\Debug\Project3(third_attempt).pdb
+C:\Users\George\source\repos\Project3(third_attempt)\obj\Debug\Project3(third_attempt).csprojAssemblyReference.cache
+C:\Users\George\source\repos\Project3(third_attempt)\obj\Debug\Project3_third_attempt_.Form1.resources
+C:\Users\George\source\repos\Project3(third_attempt)\obj\Debug\Project3_third_attempt_.Properties.Resources.resources
+C:\Users\George\source\repos\Project3(third_attempt)\obj\Debug\Project3(third_attempt).csproj.GenerateResource.cache
+C:\Users\George\source\repos\Project3(third_attempt)\obj\Debug\Project3(third_attempt).csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\Project3(third_attempt)\obj\Debug\Project3(third_attempt).exe
+C:\Users\George\source\repos\Project3(third_attempt)\obj\Debug\Project3(third_attempt).pdb
+C:\Users\George\source\repos\Drawing App\bin\Debug\Project3(third_attempt).exe.config
+C:\Users\George\source\repos\Drawing App\bin\Debug\Project3(third_attempt).exe
+C:\Users\George\source\repos\Drawing App\bin\Debug\Project3(third_attempt).pdb
+C:\Users\George\source\repos\Drawing App\obj\Debug\Project3(third_attempt).csprojAssemblyReference.cache
+C:\Users\George\source\repos\Drawing App\obj\Debug\Project3_third_attempt_.Form1.resources
+C:\Users\George\source\repos\Drawing App\obj\Debug\Project3_third_attempt_.Properties.Resources.resources
+C:\Users\George\source\repos\Drawing App\obj\Debug\Project3(third_attempt).csproj.GenerateResource.cache
+C:\Users\George\source\repos\Drawing App\obj\Debug\Project3(third_attempt).csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\Drawing App\obj\Debug\Project3(third_attempt).exe
+C:\Users\George\source\repos\Drawing App\obj\Debug\Project3(third_attempt).pdb
